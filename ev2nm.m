@@ -1,6 +1,5 @@
-%Exercise 4 of the first set of exercises in computational physics 2017
+%Computational physics 2017
 %Name: Dimitrios Stoupis
-%AEM: 14332
 
 %Constant decleration
 h = 4.135667e-15; %Planck constant in eV*s
